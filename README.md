@@ -30,7 +30,7 @@ This repo contains the code for research titled "An End-to-End System for Reprod
 
     1. Data ([download](https://mega.nz/file/5jFiAKoa#cNITq38YDnAyqS3eGzWncJJ7XPfO4FPvYPS5xjQMYqA))
     2. Model ([download](https://mega.nz/file/Eyk0Qa6L#IbLmo7_ZE_1TYyGnH7kM8uSOKkRhbBTGiLkbJiAyRCE))
-      - Huggingface links will be added after the anonymity period end.
+      - Models are also available at [HuggingFace](https://huggingface.co/kaanakdeniz)
 
     Download all the data and model from the links provided above, unzip/ unarchive the data, and then copy the `data` ve `model` folders to the main directory in the repo.
 
