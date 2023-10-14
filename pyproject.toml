@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "reproducibility-assessment"
+version = "1.0.0"
+description = "Source code of research"
+authors = [" Anonymous"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9.13,<3.11"
+pandas = "1.5.3"
+ipykernel = "^6.22.0"
+acl-anthology-scraper = {path = "../acl_anthology_scraper"}
+tqdm = "^4.65.0"
+pygithub = "^1.58.1"
+cmarkgfm = "^2022.10.27"
+nltk = "^3.8.1"
+wordcloud = "^1.8.2.2"
+matplotlib = "^3.7.1"
+streamlit = "^1.21.0"
+torch = "^2.0.0"
+sentence-transformers = "^2.2.2"
+ipywidgets = "^8.0.6"
+clean-text = "^0.6.0"
+seaborn = "^0.12.2"
+datasets = "^2.12.0"
+latexify-py = "^0.2.0"
+
+[tool.poetry.group.dev.dependencies]
+poethepoet = "^0.19.0"
+autopep8 = "^2.0.2"
+notebook = "^6.5.4"
+
+[tool.poe.tasks]
+install = "pip install torch==2.0.0+cu118 --index-url https://download.pytorch.org/whl/cu118"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
