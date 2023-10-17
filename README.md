@@ -115,7 +115,7 @@ Performance results of the system are below.
 
 ## Citation
 
-If you use these codes, please cite it as below:
+If you find this repository useful in your research, please cite it as below:
 
 ```
 @misc{akdeniz2023reproder,

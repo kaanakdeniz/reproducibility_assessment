@@ -8,7 +8,7 @@
 # }
 
 cff-version: 1.2.0
-message: "If you use these codes, please cite it as below."
+message: "If you find this repository useful in your research, please cite it as below."
 authors:
   - family-names: Akdeniz
     given-names: Eyüp Kaan
@@ -25,4 +25,5 @@ version: 1.0.0
 doi: arXiv:2310.09634
 date-released: 2023-10-14
 link: https://github.com/kaanakdeniz/reproducibility_assessment
+
 
