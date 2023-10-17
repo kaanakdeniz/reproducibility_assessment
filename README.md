@@ -1,6 +1,6 @@
 # An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes
 
-This repo contains the code for research titled "An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes" (2023)
+This repo contains the code for research titled ["An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes"](https://arxiv.org/abs/2310.09634) (2023)
 
 **Demo page is available at**: https://repro-der.streamlit.app/
 
