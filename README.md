@@ -6,7 +6,7 @@ This repo contains the code for research titled "An End-to-End System for Reprod
 
 # Content
 
-- [Reproducibility Assessment of Papers with Source Code](#reproducibility-assessment-of-papers-with-source-code)
+- [An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes](#an-end-to-end-system-for-reproducibility-assessment-of-source-code-repositories-via-their-readmes)
 - [Content](#content)
 - [How to Start?](#how-to-start)
   - [General Installation](#general-installation)
@@ -20,6 +20,7 @@ This repo contains the code for research titled "An End-to-End System for Reprod
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
+  - [Citation](#citation)
 
 # How to Start?
 
@@ -111,3 +112,18 @@ Performance results of the system are below.
 | Zero-Shot | Parent + Header | Consecutive | 0.587 | 0.540 | 0.608 |
 | Zero-Shot | Header | Base | 0.399 | 0.419 | 0.587 |
 | Zero-Shot | Header | Consecutive | 0.383 | 0.419 | 0.587 |
+
+## Citation
+
+If you use these codes, please cite it as below:
+
+```
+@misc{akdeniz2023reproder,
+      title={An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes},
+      author={Eyüp Kaan Akdeniz and Selma Tekir and Malik Nizar Asad Al Hinnawi},
+      year={2023},
+      eprint={2310.09634},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```

@@ -1,0 +1,28 @@
+# @misc{akdeniz2023endtoend,
+#       title={An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes},
+#       author={Eyüp Kaan Akdeniz and Selma Tekir and Malik Nizar Asad Al Hinnawi},
+#       year={2023},
+#       eprint={2310.09634},
+#       archivePrefix={arXiv},
+#       primaryClass={cs.CL}
+# }
+
+cff-version: 1.2.0
+message: "If you use these codes, please cite it as below."
+authors:
+  - family-names: Akdeniz
+    given-names: Eyüp Kaan
+    orcid: https://orcid.org/0000-0002-0000-0000
+    affiliation: 1
+  - family-names: Tekir
+    given-names: Selma
+    affiliation: 1
+  - family-names: Al Hinnawi
+    given-names: Malik Nizar Asad
+    affiliation: 1
+title: An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes
+version: 1.0.0
+doi: arXiv:2310.09634
+date-released: 2023-10-14
+link: https://github.com/kaanakdeniz/reproducibility_assessment
+
